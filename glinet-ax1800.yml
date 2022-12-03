@@ -46,3 +46,5 @@ packages:
   - luci-app-ttyd
   - luci-app-transmission
   - luci-app-frps
+  - luci-app-ddns
+  
