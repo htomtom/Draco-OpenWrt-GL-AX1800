@@ -49,10 +49,10 @@ module.exports = [
     name: 'luci-app-turboacc',
     desc: 'Turbo ACC 网络加速(支持 Fast Path 或者 硬件 NAT)',
   },
-  {
-    name: 'luci-app-xlnetacc',
-    desc: '迅雷快鸟',
-  },
+//   {
+//    name: 'luci-app-xlnetacc',
+//    desc: '迅雷快鸟',
+//   },
 //   {
 //     name: 'luci-app-appfilter',
 //     desc: '应用过滤'
@@ -141,8 +141,8 @@ module.exports = [
 //     name: 'luci-app-frpc',
 //     desc: 'frpc 网络代理',
 //   },
-//   {
-//     name: 'luci-app-frps',
-//     desc: 'frps 网络代理',
-//   },
+     {
+       name: 'luci-app-frps',
+       desc: 'frps 网络代理',
+     },
 ];
