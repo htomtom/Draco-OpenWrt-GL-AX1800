@@ -97,10 +97,10 @@ module.exports = [
 //     name: 'luci-app-aliddns',
 //     desc: '阿里云ddns插件',
 //   },
-//   {
-//     name: 'luci-app-ddns',
-//     desc: '动态域名 DDNS',
-//   },
+   {
+     name: 'luci-app-ddns',
+     desc: '动态域名 DDNS',
+   },
 //   {
 //     name: 'luci-app-eqos',
 //     desc: '依IP地址限速',
